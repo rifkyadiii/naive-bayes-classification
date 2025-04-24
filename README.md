@@ -1,7 +1,9 @@
 # 📊 Naive Bayes Classification: Buys_Computer Dataset
 
 Nama: Moch Rifky Aulia Adikusumah
+
 NIM: 1227050072
+
 Kelas: Prak. Pembelajaran Mesin E
 
 Proyek ini merupakan implementasi algoritma klasifikasi **Naive Bayes** untuk memprediksi apakah seseorang akan membeli komputer berdasarkan fitur-fitur seperti usia, pendapatan, status mahasiswa, dan peringkat kredit.
