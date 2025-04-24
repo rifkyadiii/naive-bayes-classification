@@ -53,9 +53,3 @@ Berdasarkan hasil evaluasi model Gaussian Naive Bayes:
 - Model memiliki **precision** tinggi untuk kelas 'Tidak Layak' (0.76), namun **recall-nya** rendah (0.39), menandakan masih banyak data kelas 'Tidak Layak' yang salah diklasifikasikan sebagai 'Layak'.
 - Sebaliknya, kelas 'Layak' memiliki **recall** tinggi (0.93), menunjukkan bahwa model cukup andal dalam mendeteksi pengguna yang layak membeli komputer.
 - Nilai **macro average recall** sebesar 0.66 mengindikasikan bahwa terdapat ketidakseimbangan performa antar kelas, dan bisa ditingkatkan dengan pendekatan balancing dataset atau teknik boosting.
-
-Model ini sudah cukup baik sebagai baseline sederhana, namun masih ada ruang untuk perbaikan, seperti:
-
-- Mencoba algoritma lain seperti **Decision Tree** atau **Random Forest**.
-- Melakukan **feature engineering** atau tuning parameter lebih lanjut.
-- Menggunakan teknik **balancing** seperti **SMOTE** jika data tidak seimbang.
