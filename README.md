@@ -1,4 +1,4 @@
-# 📊 Naive Bayes Classification: Buys_Computer Dataset
+# 📊 Naive Bayes Classification
 
 Nama: Moch Rifky Aulia Adikusumah
 
